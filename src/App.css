@@ -1,0 +1,30 @@
+.A{
+color: rgb(51, 17, 245);
+position: absolute;
+top: 50%;
+left:50%;
+transform:translate(-50%,-50%);
+font-size: 18px;
+
+}
+.B{
+  color: rgb(8, 241, 28);
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  font-size: 18px;
+}
+.C{
+  color: rgb(241, 54, 40);
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  font-size: 18px;
+
+}
+.D{
+  color: rgb(64, 65, 4);
+  font-size: 30px;
+}
